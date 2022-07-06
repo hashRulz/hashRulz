@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashRulz&show_icons=true&theme=radical)
 [![hashRulz 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashRulz )](https://github.com/hashRulz/github-readme-stats)
 
 ![hashRulz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashRulz&hide=contribs,prs)
