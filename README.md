@@ -2,6 +2,8 @@
 [![hashRulz 's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashRulz )](https://github.com/hashRulz/github-readme-stats)
 
 ![hashRulz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashRulz&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashRulz)](https://github.com/hashRulz/github-readme-stats)
 <!--
 **hashRulz/hashRulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
